@@ -40,3 +40,8 @@ Feel free to clone, modify, and use this project for educational or personal pur
 ---
 
 Thank you for using the **School Management System**. We hope it serves your educational management needs efficiently and effectively.
+
+
+---
+
+https://github.com/user-attachments/assets/fc3e9dbe-e81b-4552-9194-17562a2a36d6
